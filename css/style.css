@@ -8,7 +8,6 @@
   width: 266px;
   border-radius: 8px;
   text-align: center;
-  background-color: #555;
   font-family: dosis;
   font-size: 30px;
   padding-top: 30px;
@@ -47,12 +46,15 @@ p{
 }
 .green{
   background-color: green;
+  color: green;
 }
 .red{
   background-color: red;
+  color:red;
 }
 .blue{
   background-color: blue;
+  color:blue;
 }
 .selected{
     background-color: #F07D00;
